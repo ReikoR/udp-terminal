@@ -1,0 +1,8 @@
+{
+    "name": "udp-terminal",
+    "main": "index.html",
+    "window": {
+        "width": 640,
+        "height": 480
+    }
+}
